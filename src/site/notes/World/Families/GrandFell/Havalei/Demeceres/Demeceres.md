@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/havalei/demeceres/demeceres/","dgPassFrontmatter":true,"created":"2025-03-10T21:35:04.734-04:00","updated":"2025-03-16T19:09:20.721-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/havalei/demeceres/demeceres/","dgPassFrontmatter":true,"created":"2025-03-10T21:35:04.734-04:00","updated":"2025-03-16T19:15:05.177-04:00"}
 ---
 
 
 Small Port town in [[World/Families/GrandFell/Havalei/Havalei\|Havalei]]
 
-
+![demeceres.png](/img/user/Maps/demeceres.png)
 ```leaflet  
 id: Demeceres ### Must be unique with no spaces  
 image: [[demeceres.png]] ### Link to the map image file. Do not add a ! in front of the image  
