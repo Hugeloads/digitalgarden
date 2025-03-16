@@ -1,5 +1,5 @@
 ---
-{"mapCalc1":"NaN","dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/havalei/montisar/","dgPassFrontmatter":true,"created":"2025-03-10T21:29:56.657-04:00","updated":"2025-03-16T19:10:01.423-04:00"}
+{"mapCalc1":"NaN","dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/havalei/montisar/","dgPassFrontmatter":true,"created":"2025-03-10T21:29:56.657-04:00","updated":"2025-03-16T19:15:11.554-04:00"}
 ---
 
 [[brightwood.png]]
