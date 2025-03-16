@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/havalei/havalei/","dgPassFrontmatter":true,"created":"2025-03-10T20:00:30.498-04:00","updated":"2025-03-16T19:09:40.178-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/havalei/havalei/","dgPassFrontmatter":true,"created":"2025-03-10T20:00:30.498-04:00","updated":"2025-03-16T19:14:40.366-04:00"}
 ---
 
 
@@ -9,7 +9,7 @@ POI:
 [[World/Families/GrandFell/Havalei/Montisar\|Montisar]]
 [[World/Families/GrandFell/Havalei/Castle Morfeer\|Castle Morfeer]]
 [[World/Families/GrandFell/Havalei/Demeceres/Demeceres\|Demeceres]]
-
+![Havalei.jpg](/img/user/Maps/Havalei.jpg)
 ```leaflet  
 id: Havalei ### Must be unique with no spaces  
 image: [[Havalei.jpg]] ### Link to the map image file. Do not add a ! in front of the image  
