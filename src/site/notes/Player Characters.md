@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/player-characters/","dgPassFrontmatter":true,"created":"2025-03-10T18:27:34.481-04:00","updated":"2025-03-16T19:11:20.355-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/player-characters/","dgPassFrontmatter":true}
 ---
 
 

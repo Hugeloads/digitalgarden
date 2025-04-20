@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/smiths/khazadle/","dgPassFrontmatter":true,"created":"2025-03-10T20:51:11.489-04:00","updated":"2025-03-16T19:10:33.585-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/smiths/khazadle/","dgPassFrontmatter":true}
 ---
 
 

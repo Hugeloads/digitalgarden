@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/smiths/the-caliathans/","dgPassFrontmatter":true,"created":"2025-03-10T20:48:01.546-04:00","updated":"2025-03-16T19:10:47.542-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/smiths/the-caliathans/","dgPassFrontmatter":true}
 ---
 
 

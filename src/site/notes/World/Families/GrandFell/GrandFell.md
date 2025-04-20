@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/grand-fell/","dgPassFrontmatter":true,"created":"2025-03-10T18:39:16.143-04:00","updated":"2025-03-16T19:10:20.351-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/grand-fell/","dgPassFrontmatter":true}
 ---
 
 

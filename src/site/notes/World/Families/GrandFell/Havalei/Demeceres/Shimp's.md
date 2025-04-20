@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/havalei/demeceres/shimp-s/","dgPassFrontmatter":true,"created":"2025-03-10T21:50:30.151-04:00","updated":"2025-03-16T19:09:28.178-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/havalei/demeceres/shimp-s/","dgPassFrontmatter":true}
 ---
 
 

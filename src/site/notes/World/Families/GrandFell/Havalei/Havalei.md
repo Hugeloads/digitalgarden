@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/havalei/havalei/","dgPassFrontmatter":true,"created":"2025-03-10T20:00:30.498-04:00","updated":"2025-03-16T19:14:40.366-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/grand-fell/havalei/havalei/","dgPassFrontmatter":true}
 ---
 
 

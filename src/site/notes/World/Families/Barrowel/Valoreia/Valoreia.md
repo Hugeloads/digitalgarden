@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/barrowel/valoreia/valoreia/","dgPassFrontmatter":true,"created":"2025-03-10T20:24:27.357-04:00","updated":"2025-03-16T19:08:07.787-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/barrowel/valoreia/valoreia/","dgPassFrontmatter":true}
 ---
 
 

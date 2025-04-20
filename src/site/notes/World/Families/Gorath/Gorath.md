@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/gorath/gorath/","dgPassFrontmatter":true,"created":"2025-03-10T17:33:20.832-04:00","updated":"2025-03-16T19:08:58.928-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/gorath/gorath/","dgPassFrontmatter":true}
 ---
 
 

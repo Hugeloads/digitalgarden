@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/tldr-lore/","dgPassFrontmatter":true,"created":"2025-03-10T20:54:20.532-04:00","updated":"2025-03-16T19:21:28.666-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/tldr-lore/","dgPassFrontmatter":true}
 ---
 
 
@@ -19,4 +19,4 @@ Each has a representative in the [[World/Families/Council of Reclamation\|Counci
 | [[World/Families/Coreeshans\|Coreeshans]] | None         | Empire Dissolved       |
 The world is currently in a time of relative peace after the [[World/History/The Crimson Engagements\|The Crimson Engagements]]. The Coreeshan Empire has fallen and been dispersed amongst the new claim lands. 
 
-Your group finds themselves vying for work in a backroom at [[World/Families/GrandFell/Havalei/Demeceres/Shimp's\|Shimp's]] in [[World/Families/GrandFell/Havalei/Demeceres/Demeceres\|Demeceres]] where [[Session 1/Harlod Lormar\|Harlod Lormar]] is putting together a party of adventurers to assist him.
+Your group finds themselves vying for work in a backroom at [[World/Families/GrandFell/Havalei/Demeceres/Shimp's\|Shimp's]] in [[World/Families/GrandFell/Havalei/Demeceres/Demeceres\|Demeceres]] where [[Session 2/Harlod Lormar\|Harlod Lormar]] is putting together a party of adventurers to assist him.

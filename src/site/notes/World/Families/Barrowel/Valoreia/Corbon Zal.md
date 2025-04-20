@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/barrowel/valoreia/corbon-zal/","dgPassFrontmatter":true,"created":"2025-03-10T21:08:04.868-04:00","updated":"2025-03-16T19:08:16.770-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/barrowel/valoreia/corbon-zal/","dgPassFrontmatter":true}
 ---
 
 

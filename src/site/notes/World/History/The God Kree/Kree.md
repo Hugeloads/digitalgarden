@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/history/the-god-kree/kree/","dgPassFrontmatter":true,"created":"2025-03-16T17:26:02.114-04:00","updated":"2025-03-16T19:07:49.807-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/history/the-god-kree/kree/","dgPassFrontmatter":true}
 ---
 
 

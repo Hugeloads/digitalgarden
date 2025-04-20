@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/gorath/thaz-gar/","dgPassFrontmatter":true,"created":"2025-03-10T17:35:45.408-04:00","updated":"2025-03-16T19:09:04.283-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/gorath/thaz-gar/","dgPassFrontmatter":true}
 ---
 
 

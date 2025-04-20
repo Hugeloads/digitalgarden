@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/world/families/gorath/rakkarn/rakkarn/","dgPassFrontmatter":true,"created":"2025-03-10T17:42:16.729-04:00","updated":"2025-03-16T19:08:54.066-04:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/world/families/gorath/rakkarn/rakkarn/","dgPassFrontmatter":true}
 ---
 
 
